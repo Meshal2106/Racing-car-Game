@@ -14,8 +14,4 @@ Blessed Bites is a Restaurant Ordering System built in **Java** using **Swing** 
 - **Payment Options**:
   - **Cash on Delivery**: Enter delivery address details.
   - **Pay Online**: Enter payment source and account details.
-- **Receipt Generation**: Display and email order receipt with the itemized order and total price.
-
-## Installation
-
-1. Clone this repository:
+- **Receipt Generation**: Display and email order receipt with the itemized order and total price
