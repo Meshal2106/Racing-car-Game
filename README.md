@@ -19,6 +19,3 @@ Blessed Bites is a Restaurant Ordering System built in **Java** using **Swing** 
 ## Installation
 
 1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/blessed-bites.git
